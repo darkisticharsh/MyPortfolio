@@ -277,7 +277,7 @@ section.about {
   justify-self: center;
 }
 .about-img img {
-  width: 200px;
+  width: 80px;
   border-radius: 0.5rem;
   cursor: pointer;
 }
