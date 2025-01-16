@@ -277,15 +277,15 @@ section.about {
   justify-self: center;
 }
 .about-img img {
-  width: 200px;
+  width: 190px;
   border-radius: 0.5rem;
   cursor: pointer;
 }
 
 .about-img img:hover {
-  -webkit-transform: scale(1.2);
-  -ms-transform: scale(1.2);
-  transform: scale(1.2);
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
   transition: 1s ease;
 }
 
